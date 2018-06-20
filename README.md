@@ -5,11 +5,14 @@
 [![License](https://img.shields.io/cocoapods/l/DKFavoriteButton.svg?style=flat)](https://cocoapods.org/pods/DKFavoriteButton)
 [![Platform](https://img.shields.io/cocoapods/p/DKFavoriteButton.svg?style=flat)](https://cocoapods.org/pods/DKFavoriteButton)
 
+## DKFavoriteButton
+
+An Objective-C version of [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton).
+For those don't want to intergate swift into their Objective-C project.
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 
